@@ -39,6 +39,9 @@ namespace PrimeiroProjeto {
                 }
             }
 
+            Console.WriteLine();
+            Console.WriteLine("------- Fim do Programa -------");
+
         }
 
     }
